@@ -43,7 +43,7 @@ HDD(XTAF/FAT/EXT2FS):	updxell.bin
 						vmlinux
 						updflash.bin
 						
-Network: 				updxell.bin
+Network: 	112.168.1.99			updxell.bin
 						kboot.conf
 						xenon.elf
 						xenon.z
